@@ -36,14 +36,14 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
--   Python : 3.9.12
--   Pandas : 1.4.2
--   numpy : 1.21.5
--   matplotlib: 3.5.1
--   seaborn : 0.11.2
+-   Python : 3.11.7
+-   Pandas : 2.1.4
+-   numpy : 1.26.4
+-   matplotlib: 3.8.0
+-   seaborn : 0.12.2
 -   plotly : 5.9.0
--   statsmodels.api : 0.13.2
--   scikit-learn : 1.0.2
+-   statsmodels : 0.14.0
+-   scikit-learn : 1.2.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
